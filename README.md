@@ -4,6 +4,7 @@
 Technologies used: Python, Jupyter Notebook, Pandas, Numpy, Seaborn, Matplotlib.
 
 The datatset of this project consists of data of applications on the app store with the following columns:
+
 •	"id" : App ID
 
 •	"track_name": App Name
